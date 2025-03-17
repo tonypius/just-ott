@@ -1,3 +1,3 @@
 # Top-level configuration
 name = "just-ott"
-main = "dist/index.html"
+pages_build_output_dir = "dist"
