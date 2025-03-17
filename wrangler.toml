@@ -1,0 +1,3 @@
+# Top-level configuration
+name = "just-ott"
+main = "dist/index.html"
